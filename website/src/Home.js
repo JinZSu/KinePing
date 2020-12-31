@@ -5,8 +5,8 @@ function Home(){
   
   return (
   	<div>
-    <Introduction className="Introduction" />
-    <AboutMe className="AboutMe"/>
+    <Introduction/>
+    <AboutMe/>
     </div>
   );
 }

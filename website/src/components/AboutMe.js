@@ -16,9 +16,9 @@ class AboutMe extends React.Component{
 
   render(){
   	return(
-      <div>
-      <Fragment>
-        <div className='DivMe'>
+      <div className='DivMe'>
+      <Fragment delay={4000}>
+        <div>
           <Fade top>
             <h1 className='h1Me'>'Block 1'</h1>
           </Fade>
