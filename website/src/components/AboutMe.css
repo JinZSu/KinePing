@@ -1,0 +1,17 @@
+.DivMe{
+	display:'flex';
+	alighItems: 'center';
+	justifyContent: 'center';
+	width: '100%';
+	height: '100%';
+	background:'#000';
+	borderBottom:'1px solid rgba(255,255,255,..2)';
+}
+
+.h1Me{
+	textAlign:'center';
+	fontSize:100;
+	color:'#fff';
+	fontFamily:'Lato, sans-serif';
+	fontWeight: 100;
+}
